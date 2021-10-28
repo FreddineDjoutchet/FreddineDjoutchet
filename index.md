@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub  Page de Freddine Djoutchet, étudiante en Master  STIC ULB
 
 You can use the [editor on GitHub](https://github.com/FreddineDjoutchet/FreddineDjoutchet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
